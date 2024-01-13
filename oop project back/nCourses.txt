@@ -1,0 +1,11 @@
+CS201	DIGITALLOGIC DESIGN	Zummar Saad	4	1
+CS202	DISCRETE MATHS		Uzma Bashir	3	3
+CS203	LINEAR ALGEBRA		Mazhar Rasheed	3	2
+CS204	Marketing Mangement	Salman Bhatti	3	1
+CS205	PAK STUDIES		Fahad Qureshi	3	1
+CS206	CALCULUS 2		Fatima Imran	3	0
+CS207	NUMERICAL COMP		Waqas Manzoor	3	1
+CS208	TECHNICAL WRITING	Razam Basheer	3	1
+CS209	OOP LAB		        Usman Anwar	1	0
+CS210	CALCULUS I		Abida Parveen	3	1
+EE201	Comprehension Eng	Zainab Mubarak	2	0

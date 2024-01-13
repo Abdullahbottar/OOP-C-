@@ -1,0 +1,2 @@
+CS210	CALCULUS I		Abida Parveen		3		1		0		0
+CS202	DISCRETE MATHS		Uzma Bashir		3		3		0		0
